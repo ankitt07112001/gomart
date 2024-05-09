@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957796788125",
+    "project_id": "gomartnotify",
+    "storage_bucket": "gomartnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957796788125:android:e8ae0448b25856af9bf174",
+        "android_client_info": {
+          "package_name": "com.example.gomart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5WFo9ZVL-mrg-3Jd1lj9BUQLEt6iqSRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
